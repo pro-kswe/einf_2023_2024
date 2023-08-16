@@ -1,2 +1,6 @@
 # einf_2023_2024
-Material für KSWE Einf
+
+## Git-Befehle
+
+- git status
+- git add . (fügt alles hinzu)
